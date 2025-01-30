@@ -1,0 +1,18 @@
+@media screen and (min-width: 762px) {
+    .grid img {
+        width: 30%; 
+    }
+}
+
+@media screen and (min-width: 1439px) {
+    .grid img {
+        width: 22.5%; 
+    }
+	
+}
+
+@media screen and (min-width: 1919px) {
+    .grid img {
+        width: 20%; 
+    }
+}
